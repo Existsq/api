@@ -7,7 +7,7 @@ import { IconContext } from "react-icons";
 
 function Header() {
   return (
-    <div className="mx-2 py-4 bg-white text-black">
+    <div className="mx-4 py-4 bg-white text-black">
       <div className="flex flex-row justify-around align-middle">
           <div className="flex justify-center align-middle">
             <GiHamburgerMenu />
